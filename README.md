@@ -20,7 +20,7 @@ Dr. de Byl; this can be found in the Brain.cs class.  This is for a very simple 
 - Copy the four C# files in this repo to the Assets folder
 - Create an empty game object in the inspector, call it 'Brain'
 - Add the Brain script file to the  'Brain' game object in the inspector
-- Run the game to simulate an XOR function
+- Run the game to simulate an XOR function and observe the results in the console window below
 - To test a different function, modify the section of the Brain.cs class that has the code for the XOR training and XOR testing.
 
 #### Example Solution
